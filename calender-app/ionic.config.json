@@ -1,7 +1,0 @@
-{
-  "name": "dateimanager-app",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "vue-vite"
-}
